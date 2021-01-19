@@ -44,6 +44,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
 jhdwsvc
 CSAHJVV
+this is an new code 
 
   Widget _buildSuggestions() {
     return ListView.builder(itemBuilder: (BuildContext context, int i) {
